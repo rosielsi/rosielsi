@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![rosielsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosielsi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosielsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosielsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
