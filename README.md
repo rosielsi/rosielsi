@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<br><br>
+<h1>Languages</h1>
 <span>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"  width="50" height="50">
 
 </span>
-
+<br><br>
 
 [![rosielsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosielsi&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
