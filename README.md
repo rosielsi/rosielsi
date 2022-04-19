@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <br><br>
 <h1>Languages</h1>
 <span>
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"  width="50" height="50">
-
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"  width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="50" height="50">
+  
 </span>
 <br><br>
 
