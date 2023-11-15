@@ -1,7 +1,6 @@
 
-私のgithubへようこそ
-
-
+<h1>私のgithubへようこそ</h1>
+<p>I am a web developer</p>
 <br><br>
 <h1>Languages</h1>
 <span>
