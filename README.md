@@ -21,10 +21,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="50" height="50"/>
 </p>
 
