@@ -1,32 +1,65 @@
+<h1 align="center">🌸 私の GitHub へようこそ 🌸</h1>
+<p align="center">
+  <b>I am a passionate Web Developer</b> <br>
+  🚀 Love building apps | 💻 Full-stack enthusiast | 🎯 Always learning
+</p>
 
-<h1>私のgithubへようこそ</h1>
-<p>I am a web developer</p>
-<br><br>
-<h1>Languages</h1>
-<span>
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"  width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"  width="50" height="50">
-</span>
-<br><br>
+---
 
+## 🛠️ Languages & Tools
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="50" height="50"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosielsi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rosielsi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rosielsi&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosielsi&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rosielsi&theme=onedark&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rosielsi&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+- 🔥 Love coding challenges & hackathons  
+- 🕹️ Game dev with Unity in free time  
+- 🌱 Currently exploring **AI + Web Integration**  
+- ✨ Favorite stack: `Laravel + React + Tailwind`  
+
+---
