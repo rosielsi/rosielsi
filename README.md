@@ -25,12 +25,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" width="50" height="50"/>
 </p>
-
 ---
-
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
