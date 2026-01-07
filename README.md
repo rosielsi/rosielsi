@@ -28,20 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosielsi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosielsi&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rosielsi&theme=onedark&row=1&column=6" alt="Trophies"/>
-</p>
 
 ---
 
